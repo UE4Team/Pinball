@@ -1,0 +1,1345 @@
+﻿Log file open, 02/02/18 09:13:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(166925918) SRandInit(166925918).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198763
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.02-00.13.14:452][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.02-00.13.14:452][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.02-00.13.14:491][  0]LogInit: Computer: GM2160042
+[2018.02.02-00.13.14:491][  0]LogInit: User: nwuser
+[2018.02.02-00.13.14:491][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.02-00.13.14:491][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.02.02-00.13.14:491][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.02.02-00.13.14:491][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.02-00.13.14:491][  0]LogMemory: Process Physical Memory: 272.85 MB used, 272.85 MB peak
+[2018.02.02-00.13.14:491][  0]LogMemory: Process Virtual Memory: 272.20 MB used, 272.20 MB peak
+[2018.02.02-00.13.14:491][  0]LogMemory: Physical Memory: 4140.43 MB used,  12064.29 MB free, 16204.72 MB total
+[2018.02.02-00.13.14:491][  0]LogMemory: Virtual Memory: 646.55 MB used,  12064.29 MB free, 134217728.00 MB total
+[2018.02.02-00.13.14:724][  0]LogInit: Using OS detected language (ja-JP).
+[2018.02.02-00.13.14:724][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.02.02-00.13.14:732][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.02.02-00.13.14:916][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.02-00.13.15:264][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.02-00.13.15:306][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M    ' (Feature Level 11_0)
+[2018.02.02-00.13.15:306][  0]LogD3D11RHI:       2989/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.02-00.13.15:313][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.02.02-00.13.15:313][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.02-00.13.15:315][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.02-00.13.15:315][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.02-00.13.15:315][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.02-00.13.15:319][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.02-00.13.15:319][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.02-00.13.15:319][  0]LogWindows: EnumDisplayDevices:
+[2018.02.02-00.13.15:320][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.02.02-00.13.15:320][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.02-00.13.15:320][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.02-00.13.15:320][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M    ' (P:0 D:0)
+[2018.02.02-00.13.15:321][  0]LogWindows:    4. 'NVIDIA GeForce GTX 970M    ' (P:0 D:0)
+[2018.02.02-00.13.15:321][  0]LogWindows:    5. 'NVIDIA GeForce GTX 970M    ' (P:0 D:0)
+[2018.02.02-00.13.15:321][  0]LogWindows:    6. 'NVIDIA GeForce GTX 970M    ' (P:0 D:0)
+[2018.02.02-00.13.15:321][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.02.02-00.13.15:321][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M    
+[2018.02.02-00.13.15:321][  0]LogD3D11RHI:   Driver Version: 358.50 (internal:10.18.13.5850, unified:358.50)
+[2018.02.02-00.13.15:321][  0]LogD3D11RHI:      Driver Date: 10-2-2015
+[2018.02.02-00.13.15:321][  0]LogRHI: Texture pool is 2092 MB (70% of 2989 MB)
+[2018.02.02-00.13.15:344][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.02.02-00.13.15:344][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.02-00.13.15:363][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.02-00.13.15:363][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Intermediate/Shaders/WorkingDirectory/4540/).
+[2018.02.02-00.13.15:364][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nwuser.DA/AppData/Local/Temp/UnrealShaderWorkingDir/C1377D8F425BB4C6C98FF0B921840655/'.
+[2018.02.02-00.13.15:364][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.02-00.13.16:383][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.02-00.13.16:452][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.02-00.13.16:528][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.02-00.13.16:596][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.02-00.13.16:665][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.02-00.13.16:733][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.02-00.13.16:802][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.02-00.13.16:871][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.02-00.13.16:934][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.02-00.13.17:002][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.02-00.13.17:081][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.02-00.13.17:165][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.02-00.13.17:255][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.02-00.13.17:345][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.02-00.13.17:511][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.02-00.13.17:511][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.02-00.13.17:605][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.02-00.13.17:682][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.02-00.13.17:803][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.02-00.13.17:843][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.02-00.13.17:914][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.02-00.13.17:980][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.02-00.13.18:049][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.02-00.13.18:117][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.02-00.13.18:117][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.02-00.13.18:809][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.02-00.13.18:809][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.02.02-00.13.18:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.02-00.13.18:809][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.02-00.13.18:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.02-00.13.18:809][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.02-00.13.18:827][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.02-00.13.18:842][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nwuser.DA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.02-00.13.18:860][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.02-00.13.18:861][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.02-00.13.18:861][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.02-00.13.18:861][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.02-00.13.25:102][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.02-00.13.26:552][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2018.02.02-00.13.36:683][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2018.02.02-00.13.37:587][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2018.02.02-00.13.38:216][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.02.02-00.14.13:083][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2018.02.02-00.14.14:100][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.02-00.14.14:213][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.02-00.14.14:213][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.02-00.14.14:213][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.02-00.14.14:213][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.02-00.14.14:213][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.02-00.14.14:852][  0]LogNetVersion: Pinball , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 73719357)
+[2018.02.02-00.14.15:403][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2018.02.02-00.14.16:806][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.02.02-00.14.17:304][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.02.02-00.14.17:745][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.02.02-00.14.17:775][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2018.02.02-00.14.21:614][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2018.02.02-00.14.21:677][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2018.02.02-00.14.21:726][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2018.02.02-00.14.22:396][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2018.02.02-00.14.23:835][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.02.02-00.14.24:081][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.02.02-00.14.24:933][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.02-00.14.24:950][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.02-00.14.25:036][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.02-00.14.25:065][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.02-00.14.25:118][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.02-00.14.25:165][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.02.02-00.14.27:170][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.02.02-00.14.27:471][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.02.02-00.14.28:686][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.02.02-00.14.28:727][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.02.02-00.14.29:043][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.02.02-00.14.29:154][  0]LogMaterial: Missing cached shader map for material ARKitCameraMaterial, compiling. 
+[2018.02.02-00.14.29:575][  0]LogMaterial: Missing cached shader map for material GearVRControllerMaterial, compiling. 
+[2018.02.02-00.14.30:019][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.286317 seconds
+[2018.02.02-00.14.30:165][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.02-00.14.30:165][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.02-00.14.30:165][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.02-00.14.30:289][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.02-00.15.15:396][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.02.02-00.15.15:446][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2018.02.02-00.15.15:489][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.02.02-00.15.15:509][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.02.02-00.15.15:539][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2018.02.02-00.15.15:612][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2018.02.02-00.15.15:622][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.02.02-00.15.15:662][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2018.02.02-00.15.15:698][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.02.02-00.15.15:771][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2018.02.02-00.15.15:818][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2018.02.02-00.15.15:904][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.02.02-00.15.15:941][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.02.02-00.15.16:028][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2018.02.02-00.15.16:058][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.02.02-00.15.18:833][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.02.02-00.15.18:864][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.02.02-00.15.20:241][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.02-00.15.20:348][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.02-00.15.21:224][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.02.02-00.15.23:133][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.02.02-00.15.23:149][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2018.02.02-00.15.23:194][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.02-00.15.23:211][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2018.02.02-00.15.23:231][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2018.02.02-00.15.23:247][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.02.02-00.15.23:263][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.02.02-00.15.23:279][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.02.02-00.15.23:294][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.02.02-00.15.23:310][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.02.02-00.15.23:327][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2018.02.02-00.15.23:344][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2018.02.02-00.15.23:361][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.02.02-00.15.23:377][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.02.02-00.15.23:392][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.02.02-00.15.23:408][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.02.02-00.15.23:424][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.02.02-00.15.23:444][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.02.02-00.15.23:476][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.02.02-00.15.23:494][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.02.02-00.15.23:510][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.02.02-00.15.23:527][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.02.02-00.15.24:602][  0]SourceControl: ソースコントロールは無効です
+[2018.02.02-00.15.24:602][  0]SourceControl: ソースコントロールは無効です
+[2018.02.02-00.15.24:810][  0]SourceControl: ソースコントロールは無効です
+[2018.02.02-00.15.24:999][  0]SourceControl: ソースコントロールは無効です
+[2018.02.02-00.15.26:947][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2018.02.02-00.15.28:093][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.02-00.15.28:853][  0]LogOcInput: OculusInput pre-init called
+[2018.02.02-00.15.29:595][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.02.02-00.15.29:621][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.02.02-00.15.29:651][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.02.02-00.15.30:015][  0]LogEngine: Initializing Engine...
+[2018.02.02-00.15.30:030][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.02-00.15.30:037][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.02.02-00.15.30:401][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.02.02-00.15.31:411][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.02.02-00.15.31:773][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.02.02-00.15.32:809][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.02.02-00.15.33:847][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.02.02-00.15.34:161][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.02.02-00.15.34:320][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.02.02-00.15.34:357][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.02.02-00.15.34:386][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.02.02-00.15.34:416][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.02.02-00.15.34:444][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.02.02-00.15.34:473][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.02.02-00.15.34:487][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.02.02-00.15.34:557][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.02.02-00.15.34:630][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.02.02-00.15.34:658][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.02.02-00.15.34:698][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.02.02-00.15.34:723][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.02.02-00.15.34:750][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.02.02-00.15.34:909][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.02.02-00.15.34:938][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.02.02-00.15.34:976][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.02.02-00.15.35:022][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.02.02-00.15.35:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.02-00.15.35:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.02-00.15.35:820][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.02-00.15.35:894][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-00.15.35:964][  0]LogInit: FAudioDevice initialized.
+[2018.02.02-00.15.36:215][  0]LogDerivedDataCache: Saved boot cache 0.25s 69MB C:/Users/nwuser.DA/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.02-00.15.36:221][  0]LogInit: Texture streaming: Enabled
+[2018.02.02-00.15.36:693][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.02-00.15.37:055][  0]LogInit: Transaction tracking system initialized
+[2018.02.02-00.15.38:012][  0]BlueprintLog: New page: エディタの読み込み
+[2018.02.02-00.15.41:428][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.02.02-00.15.43:851][  0]LogConsoleResponse: Display: 
+[2018.02.02-00.15.44:303][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.02.02-00.15.44:347][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.02.02-00.15.44:370][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.02.02-00.15.44:393][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.02.02-00.15.44:416][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.02.02-00.15.44:463][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.02.02-00.15.44:525][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.02.02-00.15.44:551][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.02.02-00.15.44:573][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.02.02-00.15.44:595][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.02.02-00.15.44:618][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.02.02-00.15.44:639][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.02.02-00.15.44:662][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.02.02-00.15.44:759][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.02.02-00.15.45:094][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.02.02-00.15.45:647][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.02.02-00.15.45:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/' took 0.02s
+[2018.02.02-00.15.45:754][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.02-00.15.45:755][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.02-00.15.45:755][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.02-00.15.50:563][  0]SourceControl: ソースコントロールは無効です
+[2018.02.02-00.15.50:607][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-00.15.50:661][  0]LightingResults: New page: ライティングのビルド
+[2018.02.02-00.15.50:828][  0]MapCheck: New page: マップをチェック
+[2018.02.02-00.15.50:828][  0]LightingResults: New page: <何も選択されていません>
+[2018.02.02-00.15.52:143][  0]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.02.02-00.15.52:280][  0]LogStaticMesh: スタティックメッシュ Floor_400x400 をビルド中...
+[2018.02.02-00.15.52:291][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.02.02-00.15.52:347][  0]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2018.02.02-00.15.52:397][  0]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2018.02.02-00.15.52:539][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2018.02.02-00.15.52:597][  0]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2018.02.02-00.15.52:673][  0]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2018.02.02-00.15.52:794][  0]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2018.02.02-00.15.52:844][  0]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2018.02.02-00.15.52:896][  0]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2018.02.02-00.15.52:975][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.02.02-00.15.53:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-00.15.53:957][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-00.15.54:082][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 124.934ミリ秒かかりました。
+[2018.02.02-00.15.54:083][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.495
+[2018.02.02-00.15.54:206][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.02.02-00.15.55:120][  0]LogCollectionManager: Loaded 0 collections in 0.002600 seconds
+[2018.02.02-00.15.55:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Collections/' took 0.01s
+[2018.02.02-00.15.55:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/Developers/nwuser/Collections/' took 0.01s
+[2018.02.02-00.15.55:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/Collections/' took 0.01s
+[2018.02.02-00.15.55:285][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.02-00.15.55:300][  0]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2363 classes and 519 folders.
+[2018.02.02-00.15.55:429][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.02-00.15.57:449][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.02-00.15.57:613][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.02-00.15.57:930][  0]LogSlate: Took 0.020405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.02-00.15.57:994][  0]LogSlate: Took 0.062403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.02.02-00.15.58:019][  0]LogSlate: Took 0.023631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.02-00.15.58:073][  0]LogSlate: Took 0.018854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.02-00.15.58:323][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.02.02-00.15.58:531][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.02.02-00.15.59:528][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.02-00.15.59:528][  0]LogLoad: (Engine Initialization) Total time: 170.00 seconds
+[2018.02.02-00.15.59:528][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.02-00.15.59:529][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.02-00.15.59:529][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.02-00.15.59:930][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.02-00.16.00:309][  0]LogSlate: Took 0.021826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-00.16.00:372][  2]LogAssetRegistry: Asset discovery search completed in 103.0901 seconds
+[2018.02.02-00.16.00:375][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.02-00.16.00:375][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000114 seconds (updated 0 objects)
+[2018.02.02-00.16.20:699][195]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-00.16.20:813][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.02-00.16.20:814][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-00.16.20:831][195]PIE: New page: PIEセッション: Minimal_Default (2018/02/02 18:16:20)
+[2018.02.02-00.16.20:831][195]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.02.02-00.16.20:852][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021114s)
+[2018.02.02-00.16.20:853][195]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.02.02-00.16.20:853][195]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.02.02-00.16.20:853][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.022293s)
+[2018.02.02-00.16.20:877][195]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-00.16.20:900][195]LogInit: FAudioDevice initialized.
+[2018.02.02-00.16.20:979][195]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-00.16.20:994][195]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.02.02-09.16.20
+[2018.02.02-00.16.20:995][195]LogWorld: Bringing up level for play took: 0.001494
+[2018.02.02-00.16.21:092][195]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.02.02-00.16.21:141][195]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.245のプレイ イン エディタの開始時間
+[2018.02.02-00.16.21:141][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.02-00.16.24:319][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.02-00.16.24:358][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.02-00.17.02:992][628]Cmd: TRANSACTION UNDO
+[2018.02.02-00.17.02:992][628]LogEditorTransaction: Undo 複数のアクタを作成
+[2018.02.02-00.17.03:072][628]LogSlate: Took 0.002993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-00.19.00:425][644]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.02.02-00.19.02:434][758]LogEditorViewport: Clicking on Actor (context menu): DirectionalLight (Light Source)
+[2018.02.02-00.19.03:713][829]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.02.02-00.19.04:507][876]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.02-00.19.05:203][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.19.06:103][937]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.02.02-00.22.32:210][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.26.03:520][866]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-00.26.03:780][866]LogSavePackage: Save=179.66ms
+[2018.02.02-00.26.03:780][866]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Minimal_Default_Auto1FA36D68B41B4471613A6F48630ED21A1.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.02.02-00.26.03:784][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2018.02.02-00.26.03:805][866]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.254
+[2018.02.02-00.26.03:805][866]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.254
+[2018.02.02-00.28.03:077][ 21]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Chair)
+[2018.02.02-00.28.03:997][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.28.46:788][635]LogEditorViewport: Clicking on Actor (context menu): AmbientSound (Starter_Background_Cue)
+[2018.02.02-00.28.48:265][711]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.02.02-00.29.56:041][379]LightingResults: New page: ライティングのビルド
+[2018.02.02-00.29.56:042][379]MapCheck: New page: マップをチェック
+[2018.02.02-00.29.56:042][379]LightingResults: New page: <何も選択されていません>
+[2018.02.02-00.29.56:091][379]LogAIModule: Creating AISystem for world Untitled
+[2018.02.02-00.29.56:098][379]LoadErrors: New page: 新規のマップ
+[2018.02.02-00.30.15:676][554]LogEditorViewport: Clicking Background
+[2018.02.02-00.30.52:963][551]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-00.30.53:003][551]LightingResults: New page: ライティングのビルド
+[2018.02.02-00.30.53:003][551]LoadErrors: New page: マップをロード中: Template_Default.umap
+[2018.02.02-00.30.53:009][551]MapCheck: New page: マップをチェック
+[2018.02.02-00.30.53:009][551]LightingResults: New page: <何も選択されていません>
+[2018.02.02-00.30.53:132][551]LogAIModule: Creating AISystem for world Untitled_2
+[2018.02.02-00.30.53:141][551]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-00.30.53:155][551]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-00.30.53:246][551]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 90.512ミリ秒かかりました。
+[2018.02.02-00.30.53:246][551]LogFileHelpers: Loading map 'Template_Default' took 0.315
+[2018.02.02-00.30.56:822][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.41.18:115][516]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2018.02.02-00.41.26:537][ 10]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2018.02.02-00.41.49:014][348]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2018.02.02-00.42.40:320][405]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-00.42.44:518][655]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-00.42.50:277][  0]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-00.42.51:274][ 59]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (PlayerStart)
+[2018.02.02-00.42.55:913][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.42.57:636][407]Cmd: TRANSACTION UNDO
+[2018.02.02-00.42.57:636][407]LogEditorTransaction: Undo アクタをクリック
+[2018.02.02-00.42.59:194][489]Cmd: TRANSACTION UNDO
+[2018.02.02-00.42.59:194][489]LogEditorTransaction: Undo アクタをクリック（コンテキストメニュー）
+[2018.02.02-00.42.59:834][526]Cmd: TRANSACTION UNDO
+[2018.02.02-00.42.59:835][526]LogEditorTransaction: Undo アクタ を移動
+[2018.02.02-00.43.00:287][553]Cmd: TRANSACTION UNDO
+[2018.02.02-00.43.00:287][553]LogEditorTransaction: Undo アクタ を移動
+[2018.02.02-00.43.00:743][580]Cmd: TRANSACTION UNDO
+[2018.02.02-00.43.00:743][580]LogEditorTransaction: Undo アクタ を移動
+[2018.02.02-00.43.01:076][600]Cmd: TRANSACTION UNDO
+[2018.02.02-00.43.01:076][600]LogEditorTransaction: Undo Set Location
+[2018.02.02-00.43.01:449][622]Cmd: TRANSACTION UNDO
+[2018.02.02-00.43.01:449][622]LogEditorTransaction: Undo Set Location
+[2018.02.02-00.43.01:799][643]Cmd: TRANSACTION UNDO
+[2018.02.02-00.43.01:799][643]LogEditorTransaction: Undo Set Location
+[2018.02.02-00.43.02:216][668]Cmd: TRANSACTION UNDO
+[2018.02.02-00.43.02:216][668]LogEditorTransaction: Undo 複数のアクタを作成
+[2018.02.02-00.43.02:720][696]Cmd: TRANSACTION UNDO
+[2018.02.02-00.43.02:720][696]LogEditorTransaction: Undo 複数のアクタを作成
+[2018.02.02-00.43.16:112][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.44.12:550][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_2" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Temp/Untitled_2_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.02-00.44.12:584][539]LogSavePackage: Save=34.20ms
+[2018.02.02-00.44.12:584][539]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Untitled_2_Auto2C2022042446D5207201E43817B43611C.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Temp/Untitled_2_Auto2.umap'
+[2018.02.02-00.44.12:587][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Temp/Untitled_2_Auto2.umap
+[2018.02.02-00.44.12:591][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 0.053
+[2018.02.02-00.44.12:591][539]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.053
+[2018.02.02-00.47.00:097][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.02-00.47.00:142][945]LogSavePackage: Save=31.38ms
+[2018.02.02-00.47.00:142][945]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap1EED1CA148D47718C21A2C859BBFEFC8.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap'
+[2018.02.02-00.47.00:151][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap
+[2018.02.02-00.47.00:187][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap_BuiltData" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset" SILENT=true
+[2018.02.02-00.47.00:206][945]LogSavePackage: Save=14.17ms
+[2018.02.02-00.47.00:206][945]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_BuiltDataE08E460F400E0A2F7F456EB324A7F3D1.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset'
+[2018.02.02-00.47.00:209][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset
+[2018.02.02-00.47.00:215][945]LogFileHelpers: Saving map 'pinMap' took 0.284
+[2018.02.02-00.48.17:039][440]LogActorFactory: Actor Factory created Cube
+[2018.02.02-00.48.17:044][440]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.02.02-00.48.19:793][601]LogActorFactory: Actor Factory created Cube
+[2018.02.02-00.49.34:718][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.49.41:642][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.49.42:999][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.02-00.49.44:166][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.49.47:371][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.02-00.49.48:654][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.49.50:254][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.02-00.49.55:005][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.49.58:538][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.02-00.51.29:741][959]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.02.02-00.51.30:666][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-00.51.31:589][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.02-00.53.21:311][639]LogActorFactory: Actor Factory created Cube
+[2018.02.02-00.53.22:260][696]LogActorFactory: Actor Factory created Cube
+[2018.02.02-00.55.00:913][605]LogActorFactory: Actor Factory created Cube
+[2018.02.02-00.55.01:884][663]LogActorFactory: Actor Factory created Cube
+[2018.02.02-00.57.33:027][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.02-00.57.33:078][704]LogSavePackage: Save=39.46ms
+[2018.02.02-00.57.33:078][704]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_Auto3996CDFF1412B91C465489EB428842819.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto3.umap'
+[2018.02.02-00.57.33:081][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto3.umap
+[2018.02.02-00.57.33:085][704]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/stage/pinMap' took 0.072
+[2018.02.02-00.57.33:085][704]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2018.02.02-01.03.17:496][365]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.02-01.03.18:363][411]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.02-01.03.18:919][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.02-01.04.16:997][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-01.05.38:746][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.02-01.05.53:241][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.02.02-01.06.06:473][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.02-01.06.44:094][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.02-01.07.16:879][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-01.07.22:193][970]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-01.07.22:208][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-01.07.22:209][970]PIE: New page: PIEセッション: pinMap (2018/02/02 19:07:22)
+[2018.02.02-01.07.22:209][970]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-01.07.22:217][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007302s)
+[2018.02.02-01.07.22:218][970]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-01.07.22:218][970]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2018.02.02-01.07.22:218][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.009085s)
+[2018.02.02-01.07.22:233][970]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-01.07.22:253][970]LogInit: FAudioDevice initialized.
+[2018.02.02-01.07.22:288][970]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-01.07.22:290][970]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-10.07.22
+[2018.02.02-01.07.22:290][970]LogWorld: Bringing up level for play took: 0.000875
+[2018.02.02-01.07.22:291][970]PIE: /Game/stage/UEDPIE_0_pinMap -0.425のプレイ イン エディタの開始時間
+[2018.02.02-01.08.17:519][276]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -2040.00,-90.00,620.00
+[2018.02.02-01.08.20:131][423]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -1710.00,310.00,560.00
+[2018.02.02-01.09.48:359][701]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-01.09.48:373][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-01.09.48:373][701]PIE: New page: PIEセッション: pinMap (2018/02/02 19:09:48)
+[2018.02.02-01.09.48:373][701]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-01.09.48:380][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006982s)
+[2018.02.02-01.09.48:381][701]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-01.09.48:382][701]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2018.02.02-01.09.48:382][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.008619s)
+[2018.02.02-01.09.48:423][701]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-01.09.48:442][701]LogInit: FAudioDevice initialized.
+[2018.02.02-01.09.48:474][701]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-01.09.48:476][701]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-10.09.48
+[2018.02.02-01.09.48:476][701]LogWorld: Bringing up level for play took: 0.000815
+[2018.02.02-01.09.48:477][701]PIE: /Game/stage/UEDPIE_0_pinMap -0.238のプレイ イン エディタの開始時間
+[2018.02.02-01.10.44:450][ 54]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.02.02-01.10.45:368][107]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.10.53:515][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-01.11.05:613][308]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.02-01.11.15:588][887]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (Player Start)
+[2018.02.02-01.11.15:602][887]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.11.17:902][ 24]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.02-01.11.19:311][108]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (Player Start)
+[2018.02.02-01.11.19:325][108]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.11.33:405][939]Cmd: DELETE
+[2018.02.02-01.11.33:405][939]Cmd: ACTOR DELETE
+[2018.02.02-01.11.33:468][939]LogEditorActor: Deleted Actor: PlayerStart
+[2018.02.02-01.11.33:477][939]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.02.02-01.11.37:428][174]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-01.11.37:441][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-01.11.37:441][174]PIE: New page: PIEセッション: pinMap (2018/02/02 19:11:37)
+[2018.02.02-01.11.37:441][174]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-01.11.37:448][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006491s)
+[2018.02.02-01.11.37:449][174]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-01.11.37:449][174]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.02.02-01.11.37:449][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.007960s)
+[2018.02.02-01.11.37:461][174]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-01.11.37:483][174]LogInit: FAudioDevice initialized.
+[2018.02.02-01.11.37:514][174]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-01.11.37:515][174]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-10.11.37
+[2018.02.02-01.11.37:516][174]LogWorld: Bringing up level for play took: 0.000873
+[2018.02.02-01.11.37:517][174]PIE: /Game/stage/UEDPIE_0_pinMap 0.802のプレイ イン エディタの開始時間
+[2018.02.02-01.11.59:035][460]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.12.02:557][665]Cmd: TRANSACTION UNDO
+[2018.02.02-01.12.02:557][665]LogEditorTransaction: Undo アクタをクリック
+[2018.02.02-01.12.07:114][927]Cmd: TRANSACTION UNDO
+[2018.02.02-01.12.07:114][927]LogEditorTransaction: Undo アクタを削除
+[2018.02.02-01.12.11:931][203]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.13.49:541][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.02-01.13.49:590][ 33]LogSavePackage: Save=38.11ms
+[2018.02.02-01.13.49:590][ 33]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_Auto4ED4464404A3EB04FD0F660A62EEC19F6.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto4.umap'
+[2018.02.02-01.13.49:594][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto4.umap
+[2018.02.02-01.13.49:597][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/stage/pinMap' took 0.068
+[2018.02.02-01.13.49:597][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.068
+[2018.02.02-01.14.07:641][115]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.14.14:098][492]LogSlate: Took 0.054414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.02-01.15.33:151][225]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.19.33:215][642]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.02-01.19.41:577][140]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.19.47:029][467]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.19.54:572][919]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.19.55:982][  3]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.19.57:323][ 83]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.19.59:198][195]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-01.20.38:389][380]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.21.57:533][524]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.02.02-01.25.56:968][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.02-01.25.57:029][349]LogSavePackage: Save=50.56ms
+[2018.02.02-01.25.57:029][349]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_Auto54A9A53C84B174FB59B3E6AB33D2DEC61.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto5.umap'
+[2018.02.02-01.25.57:032][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto5.umap
+[2018.02.02-01.25.57:037][349]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/stage/pinMap' took 0.094
+[2018.02.02-01.25.57:037][349]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.094
+[2018.02.02-01.30.12:230][399]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.30.30:233][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.02-01.30.31:362][513]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.31.18:299][240]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.31.27:827][800]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.34.22:287][995]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-01.36.20:798][236]LogSlate: Took 0.054123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.02-01.37.37:242][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.02-01.37.37:406][902]LogSavePackage: Save=151.57ms
+[2018.02.02-01.37.37:406][902]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_Auto6918D82284207B06B670653A94FEECB82.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto6.umap'
+[2018.02.02-01.37.37:409][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto6.umap
+[2018.02.02-01.37.37:414][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/stage/pinMap' took 0.195
+[2018.02.02-01.37.37:414][902]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2018.02.02-01.39.57:899][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.02-01.39.58:070][710]LogSavePackage: Save=147.15ms
+[2018.02.02-01.39.58:070][710]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap28ECC7414D66C41E04388188AD0287E9.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap'
+[2018.02.02-01.39.58:083][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap
+[2018.02.02-01.39.58:115][710]LogFileHelpers: Saving map 'pinMap' took 0.309
+[2018.02.02-01.39.59:561][794]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-01.39.59:577][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.39.59:578][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-01.39.59:578][794]PIE: New page: PIEセッション: pinMap (2018/02/02 19:39:59)
+[2018.02.02-01.39.59:578][794]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-01.39.59:586][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007664s)
+[2018.02.02-01.39.59:586][794]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-01.39.59:586][794]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.02.02-01.39.59:587][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.008802s)
+[2018.02.02-01.39.59:639][794]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-01.39.59:657][794]LogInit: FAudioDevice initialized.
+[2018.02.02-01.39.59:694][794]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-01.39.59:695][794]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-10.39.59
+[2018.02.02-01.39.59:696][794]LogWorld: Bringing up level for play took: 0.001031
+[2018.02.02-01.39.59:738][794]PIE: /Game/stage/UEDPIE_0_pinMap 1.034のプレイ イン エディタの開始時間
+[2018.02.02-01.39.59:739][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.40.06:202][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.40.06:242][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.40.13:152][590]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-01.40.13:167][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.40.13:167][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-01.40.13:167][590]PIE: New page: PIEセッション: pinMap (2018/02/02 19:40:13)
+[2018.02.02-01.40.13:167][590]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-01.40.13:173][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005771s)
+[2018.02.02-01.40.13:173][590]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-01.40.13:174][590]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2018.02.02-01.40.13:174][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.006613s)
+[2018.02.02-01.40.13:194][590]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-01.40.13:211][590]LogInit: FAudioDevice initialized.
+[2018.02.02-01.40.13:240][590]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-01.40.13:242][590]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-10.40.13
+[2018.02.02-01.40.13:242][590]LogWorld: Bringing up level for play took: 0.000995
+[2018.02.02-01.40.13:243][590]PIE: /Game/stage/UEDPIE_0_pinMap 0.539のプレイ イン エディタの開始時間
+[2018.02.02-01.40.13:244][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.40.49:288][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.40.49:330][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.40.53:635][  2]MapCheck: New page: マップをチェック
+[2018.02.02-01.40.53:757][  2]LightingResults: New page: ライティングのビルド - 2018/02/02 19:40:53
+[2018.02.02-01.40.54:018][  2]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.02-01.40.54:199][  2]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.02-01.40.54:243][  2]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.02-01.40.59:795][  2]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.02.02-01.41.00:057][  2]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:8008
+
+Server stack trace: 
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   場所 System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   場所 System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   場所 System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   場所 System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   場所 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   場所 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   場所 NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   場所 NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.02.02-01.41.05:190][  2]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.02-01.41.05:191][  2]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4540
+[2018.02.02-01.41.09:829][  2]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.02-01.41.09:829][  2]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.02-01.41.09:829][  2]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.02-01.41.09:829][  2]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.02-01.41.09:829][  2]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.02-01.41.09:829][  2]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.02-01.41.10:159][  2]LogEditorBuildUtils: Build time 0:16
+[2018.02.02-01.41.10:169][  2]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2018.02.02-01.41.10:176][  2]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2018.02.02-01.41.10:192][  3]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.02.02-01.41.10:199][  3]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.02.02-01.41.10:226][  4]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.02.02-01.41.10:235][  4]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.02.02-01.41.10:257][  5]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.02-01.41.10:270][  5]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.02-01.41.15:751][103]Job is a success!
+[2018.02.02-01.41.20:132][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.02-01.41.27:933][797]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2018.02.02-01.41.27:933][797]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.02-01.41.27:934][797]LogVolumetricLightmapImport:      BrickData 105x5x5 = 0.1Mb
+[2018.02.02-01.41.27:934][797]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.02-01.41.27:934][797]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2018.02.02-01.41.27:934][797]LogVolumetricLightmapImport:          1: 9.5% covering 3.1% of volume
+[2018.02.02-01.41.27:934][797]LogVolumetricLightmapImport:          2: 85.7% covering 0.4% of volume
+[2018.02.02-01.41.27:991][797]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.02.02-01.41.27:991][797]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.02.02-01.41.27:991][797]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.02.02-01.41.27:991][797]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.02.02-01.41.27:991][797]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.02.02-01.41.27:992][797]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2018.02.02-01.41.28:060][797]Lightmass on GM2160042: 13.6 sec total, 590 ms importing, 14 ms setup, 390 ms photons, 12.6 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 1:28 min total, 458 ms processing.
+[2018.02.02-01.41.28:088][797]LogStaticLightingSystem: Illumination: 22.2 sec (34 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2018.02.02-01.41.28:088][797]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.02.02-01.41.28:088][797]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.02-01.41.28:838][797]DumpUnbuiltLightIteractions
+[2018.02.02-01.41.28:838][797]Lights with unbuilt interactions: 0
+[2018.02.02-01.41.28:838][797]
+[2018.02.02-01.41.28:838][797]Primitives with unbuilt interactions: 0
+[2018.02.02-01.41.28:845][798]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.02-01.41.28:846][798]MapCheck: New page: pinMap - 2018/02/02 19:41:28
+[2018.02.02-01.41.28:938][798]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 91.707ミリ秒かかりました。
+[2018.02.02-01.41.31:412][944]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-01.41.31:428][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.41.31:429][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-01.41.31:429][944]PIE: New page: PIEセッション: pinMap (2018/02/02 19:41:31)
+[2018.02.02-01.41.31:429][944]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-01.41.31:432][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003739s)
+[2018.02.02-01.41.31:434][944]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-01.41.31:434][944]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2018.02.02-01.41.31:434][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.005439s)
+[2018.02.02-01.41.31:457][944]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-01.41.31:479][944]LogInit: FAudioDevice initialized.
+[2018.02.02-01.41.31:510][944]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-01.41.31:513][944]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-10.41.31
+[2018.02.02-01.41.31:513][944]LogWorld: Bringing up level for play took: 0.000932
+[2018.02.02-01.41.31:514][944]PIE: /Game/stage/UEDPIE_0_pinMap 0.811のプレイ イン エディタの開始時間
+[2018.02.02-01.41.31:515][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.41.41:272][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.41.41:309][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.41.58:434][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.02-01.42.06:717][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.02-01.43.17:983][286]MapCheck: New page: マップをチェック
+[2018.02.02-01.43.18:028][286]LightingResults: New page: ライティングのビルド - 2018/02/02 19:43:18
+[2018.02.02-01.43.18:045][286]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.02-01.43.18:047][286]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.02-01.43.18:047][286]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.02-01.43.18:049][286]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.02-01.43.18:049][286]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4540
+[2018.02.02-01.43.22:557][286]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.02-01.43.22:557][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.02-01.43.22:557][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.02-01.43.22:557][286]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.02-01.43.22:557][286]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.02-01.43.22:557][286]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.02-01.43.22:663][286]LogEditorBuildUtils: Build time 0:04
+[2018.02.02-01.43.24:685][359]Job is a success!
+[2018.02.02-01.43.24:786][360]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2018.02.02-01.43.24:786][360]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.02-01.43.24:786][360]LogVolumetricLightmapImport:      BrickData 105x5x5 = 0.1Mb
+[2018.02.02-01.43.24:786][360]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.02-01.43.24:786][360]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2018.02.02-01.43.24:786][360]LogVolumetricLightmapImport:          1: 9.5% covering 3.1% of volume
+[2018.02.02-01.43.24:786][360]LogVolumetricLightmapImport:          2: 85.7% covering 0.4% of volume
+[2018.02.02-01.43.24:840][360]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.02.02-01.43.24:840][360]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.02.02-01.43.24:840][360]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.02.02-01.43.24:840][360]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.02.02-01.43.24:841][360]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.02.02-01.43.24:841][360]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2018.02.02-01.43.24:866][360]Lightmass on GM2160042: 1.09 sec total, 115 ms importing, 24 ms setup, 392 ms photons, 547 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 3.67 sec total, 439 ms processing.
+[2018.02.02-01.43.24:870][360]LogStaticLightingSystem: Illumination: 6.82 sec (33 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2018.02.02-01.43.24:870][360]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.02.02-01.43.24:870][360]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.02-01.43.25:560][360]DumpUnbuiltLightIteractions
+[2018.02.02-01.43.25:560][360]Lights with unbuilt interactions: 0
+[2018.02.02-01.43.25:560][360]
+[2018.02.02-01.43.25:560][360]Primitives with unbuilt interactions: 0
+[2018.02.02-01.43.25:605][361]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.02-01.43.25:605][361]MapCheck: New page: pinMap - 2018/02/02 19:43:25
+[2018.02.02-01.43.25:695][361]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 90.323ミリ秒かかりました。
+[2018.02.02-01.44.59:567][991]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-01.44.59:582][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.44.59:582][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-01.44.59:583][991]PIE: New page: PIEセッション: pinMap (2018/02/02 19:44:59)
+[2018.02.02-01.44.59:583][991]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-01.44.59:586][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003479s)
+[2018.02.02-01.44.59:587][991]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-01.44.59:588][991]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2018.02.02-01.44.59:588][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.005061s)
+[2018.02.02-01.44.59:612][991]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-01.44.59:629][991]LogInit: FAudioDevice initialized.
+[2018.02.02-01.44.59:663][991]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-01.44.59:665][991]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-10.44.59
+[2018.02.02-01.44.59:665][991]LogWorld: Bringing up level for play took: 0.000997
+[2018.02.02-01.44.59:666][991]PIE: /Game/stage/UEDPIE_0_pinMap 0.964のプレイ イン エディタの開始時間
+[2018.02.02-01.44.59:667][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.45.09:479][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.45.09:517][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-01.51.15:161][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.02-01.51.15:429][827]LogSavePackage: Save=255.03ms
+[2018.02.02-01.51.15:429][827]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_Auto790FC145A4E18ED3FF3400CBB2BA68F43.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto7.umap'
+[2018.02.02-01.51.15:433][827]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_Auto7.umap
+[2018.02.02-01.51.15:438][827]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/stage/pinMap' took 0.300
+[2018.02.02-01.51.15:438][827]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.300
+[2018.02.02-01.51.15:441][827]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/stage/pinMap_BuiltData] ([1] browsable assets)...
+[2018.02.02-01.51.15:441][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/stage/pinMap_BuiltData]
+[2018.02.02-01.51.15:458][827]LogSavePackage: Save=7.65ms
+[2018.02.02-01.51.15:458][827]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_BuiltData_Auto7CF9EE0C7420319B175C534864CB141A4.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_BuiltData_Auto7.uasset'
+[2018.02.02-01.51.15:462][827]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Autosaves/Game/stage/pinMap_BuiltData_Auto7.uasset
+[2018.02.02-01.51.15:462][827]LogFileHelpers: Auto-saving content packages took 0.023
+[2018.02.02-01.52.25:808][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.02-02.02.55:267][ 38]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-02.02.55:283][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.02.55:283][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-02.02.55:283][ 38]PIE: New page: PIEセッション: pinMap (2018/02/02 20:02:55)
+[2018.02.02-02.02.55:284][ 38]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-02.02.55:308][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024354s)
+[2018.02.02-02.02.55:309][ 38]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-02.02.55:309][ 38]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2018.02.02-02.02.55:309][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.025969s)
+[2018.02.02-02.02.55:336][ 38]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-02.02.55:354][ 38]LogInit: FAudioDevice initialized.
+[2018.02.02-02.02.55:390][ 38]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-02.02.55:391][ 38]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-11.02.55
+[2018.02.02-02.02.55:392][ 38]LogWorld: Bringing up level for play took: 0.000827
+[2018.02.02-02.02.55:393][ 38]PIE: /Game/stage/UEDPIE_0_pinMap 0.75のプレイ イン エディタの開始時間
+[2018.02.02-02.02.55:393][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.01:638][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.01:672][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.11:995][ 23]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-02.03.12:010][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.12:010][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-02.03.12:010][ 23]PIE: New page: PIEセッション: pinMap (2018/02/02 20:03:12)
+[2018.02.02-02.03.12:010][ 23]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-02.03.12:015][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004932s)
+[2018.02.02-02.03.12:016][ 23]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-02.03.12:016][ 23]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2018.02.02-02.03.12:016][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.006382s)
+[2018.02.02-02.03.12:039][ 23]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-02.03.12:060][ 23]LogInit: FAudioDevice initialized.
+[2018.02.02-02.03.12:091][ 23]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-02.03.12:093][ 23]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-11.03.12
+[2018.02.02-02.03.12:093][ 23]LogWorld: Bringing up level for play took: 0.000929
+[2018.02.02-02.03.12:095][ 23]PIE: /Game/stage/UEDPIE_0_pinMap -0.548のプレイ イン エディタの開始時間
+[2018.02.02-02.03.12:095][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.22:453][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.22:487][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.24:444][759]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-02.03.49:826][271]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-02.03.49:840][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.03.49:841][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-02.03.49:841][271]PIE: New page: PIEセッション: pinMap (2018/02/02 20:03:49)
+[2018.02.02-02.03.49:841][271]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-02.03.49:846][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004558s)
+[2018.02.02-02.03.49:846][271]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-02.03.49:846][271]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.02.02-02.03.49:847][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.005547s)
+[2018.02.02-02.03.49:892][271]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-02.03.49:908][271]LogInit: FAudioDevice initialized.
+[2018.02.02-02.03.49:937][271]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-02.03.49:939][271]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-11.03.49
+[2018.02.02-02.03.49:939][271]LogWorld: Bringing up level for play took: 0.000939
+[2018.02.02-02.03.49:940][271]PIE: /Game/stage/UEDPIE_0_pinMap -0.702のプレイ イン エディタの開始時間
+[2018.02.02-02.03.49:941][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.01:673][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.01:712][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.04:186][120]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-02.04.13:819][685]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-02.04.13:837][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.13:837][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-02.04.13:838][685]PIE: New page: PIEセッション: pinMap (2018/02/02 20:04:13)
+[2018.02.02-02.04.13:838][685]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-02.04.13:842][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004333s)
+[2018.02.02-02.04.13:843][685]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-02.04.13:843][685]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.02.02-02.04.13:843][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.005548s)
+[2018.02.02-02.04.13:893][685]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-02.04.13:911][685]LogInit: FAudioDevice initialized.
+[2018.02.02-02.04.13:944][685]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-02.04.13:945][685]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-11.04.13
+[2018.02.02-02.04.13:945][685]LogWorld: Bringing up level for play took: 0.000839
+[2018.02.02-02.04.13:947][685]PIE: /Game/stage/UEDPIE_0_pinMap -0.695のプレイ イン エディタの開始時間
+[2018.02.02-02.04.13:947][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.19:458][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.19:496][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.22:413][188]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-02.04.23:789][264]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.02-02.04.27:196][465]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.02-02.04.27:986][512]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-02.04.33:361][826]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-02.04.33:376][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.33:376][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-02.04.33:376][826]PIE: New page: PIEセッション: pinMap (2018/02/02 20:04:33)
+[2018.02.02-02.04.33:376][826]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-02.04.33:380][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003853s)
+[2018.02.02-02.04.33:380][826]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-02.04.33:381][826]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2018.02.02-02.04.33:381][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.004695s)
+[2018.02.02-02.04.33:427][826]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-02.04.33:445][826]LogInit: FAudioDevice initialized.
+[2018.02.02-02.04.33:477][826]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-02.04.33:478][826]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-11.04.33
+[2018.02.02-02.04.33:479][826]LogWorld: Bringing up level for play took: 0.000824
+[2018.02.02-02.04.33:480][826]PIE: /Game/stage/UEDPIE_0_pinMap 0.839のプレイ イン エディタの開始時間
+[2018.02.02-02.04.33:480][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.40:205][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.40:238][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.44:476][481]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2018.02.02-02.04.48:679][723]LogTemp: Repeating last play command: 選択ビューポート
+[2018.02.02-02.04.48:695][723]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.04.48:695][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-02.04.48:695][723]PIE: New page: PIEセッション: pinMap (2018/02/02 20:04:48)
+[2018.02.02-02.04.48:695][723]LogPlayLevel: Creating play world package: /Game/stage/UEDPIE_0_pinMap
+[2018.02.02-02.04.48:699][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004237s)
+[2018.02.02-02.04.48:700][723]LogAIModule: Creating AISystem for world pinMap
+[2018.02.02-02.04.48:701][723]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2018.02.02-02.04.48:701][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/stage/pinMap.pinMap to /Game/stage/UEDPIE_0_pinMap.pinMap (0.005798s)
+[2018.02.02-02.04.48:750][723]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-02.04.48:767][723]LogInit: FAudioDevice initialized.
+[2018.02.02-02.04.48:802][723]LogLoad: Game class is 'GameModeBase'
+[2018.02.02-02.04.48:804][723]LogWorld: Bringing World /Game/stage/UEDPIE_0_pinMap.pinMap up for play (max tick rate 60) at 2018.02.02-11.04.48
+[2018.02.02-02.04.48:804][723]LogWorld: Bringing up level for play took: 0.000999
+[2018.02.02-02.04.48:806][723]PIE: /Game/stage/UEDPIE_0_pinMap 0.164のプレイ イン エディタの開始時間
+[2018.02.02-02.04.48:806][723]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.05.11:687][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.05.11:727][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/stage/pinMap.pinMap:PersistentLevel' has LevelScriptBlueprint '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap' with GeneratedClass '/Game/stage/pinMap.pinMap_C' with ClassGeneratedBy '/Game/stage/pinMap.pinMap:PersistentLevel.pinMap'
+[2018.02.02-02.05.19:347][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.02-02.05.19:626][542]LogSavePackage: Save=251.52ms
+[2018.02.02-02.05.19:626][542]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap39F0079146B7593F83F126BA177CE9BF.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap'
+[2018.02.02-02.05.19:636][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap
+[2018.02.02-02.05.19:668][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap_BuiltData" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset" SILENT=true
+[2018.02.02-02.05.19:693][542]LogSavePackage: Save=15.59ms
+[2018.02.02-02.05.19:693][542]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_BuiltData2158848F447A7F73ABEB62BDB8A8DE52.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset'
+[2018.02.02-02.05.19:701][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset
+[2018.02.02-02.05.42:621][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.02-02.05.42:893][914]LogSavePackage: Save=246.77ms
+[2018.02.02-02.05.42:893][914]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMapB32840104DBD8F1131C275978422EF14.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap'
+[2018.02.02-02.05.42:903][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap
+[2018.02.02-02.05.42:926][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap_BuiltData" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset" SILENT=true
+[2018.02.02-02.05.42:949][914]LogSavePackage: Save=15.88ms
+[2018.02.02-02.05.42:949][914]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_BuiltData4896AED64A80A9204A7323ADAA6148A9.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset'
+[2018.02.02-02.05.42:953][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset
+[2018.02.02-02.07.15:745][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.02-02.07.16:019][447]LogSavePackage: Save=247.86ms
+[2018.02.02-02.07.16:019][447]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMapAEF4A71F44EE80D40E389A8474F694DC.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap'
+[2018.02.02-02.07.16:032][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap.umap
+[2018.02.02-02.07.16:055][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage/pinMap_BuiltData" FILE="../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset" SILENT=true
+[2018.02.02-02.07.16:078][447]LogSavePackage: Save=15.35ms
+[2018.02.02-02.07.16:078][447]LogSavePackage: Moving '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/pinMap_BuiltData6EC68DB04BE3615D3B7B80BD82AADA36.tmp' to '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset'
+[2018.02.02-02.07.16:081][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/stage/pinMap_BuiltData.uasset
+[2018.02.02-02.07.22:863][845]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.02.02-02.07.23:137][846]Cmd: QUIT_EDITOR
+[2018.02.02-02.07.23:839][846]LogExit: Preparing to exit.
+[2018.02.02-02.07.24:390][846]LogDirectoryWatcher: A directory notification for 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/' was aborted.
+[2018.02.02-02.07.24:430][846]LogExit: Editor shut down
+[2018.02.02-02.07.24:437][846]LogExit: Transaction tracking system shut down
+[2018.02.02-02.07.24:677][846]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.02-02.07.24:677][846]LogDirectoryWatcher: A directory notification for '../../../../../../Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/' was aborted.
+[2018.02.02-02.07.24:677][846]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.02-02.07.24:677][846]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.02-02.07.24:677][846]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.02-02.07.24:677][846]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.02-02.07.24:677][846]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.02-02.07.24:783][846]LogExit: Object subsystem successfully closed.
+[2018.02.02-02.07.25:068][846]LogD3D11RHI: Shutdown
+[2018.02.02-02.07.25:068][846]LogD3D11RHI: CleanupD3DDevice
+[2018.02.02-02.07.25:074][846]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.02-02.07.25:166][846]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.02.02-02.07.25:166][846]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.02.02-02.07.25:166][846]LogModuleManager: Shutting down and abandoning module NewLevelDialog (552)
+[2018.02.02-02.07.25:166][846]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.02.02-02.07.25:166][846]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.02-02.07.25:166][846]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.02-02.07.25:167][846]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.02-02.07.25:167][846]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.02-02.07.25:168][846]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.02-02.07.25:168][846]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.02-02.07.25:168][846]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.02-02.07.25:168][846]LogDirectoryWatcher: A directory notification for 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/Collections/' was aborted.
+[2018.02.02-02.07.25:169][846]LogDirectoryWatcher: A directory notification for 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Content/Developers/nwuser/Collections/' was aborted.
+[2018.02.02-02.07.25:169][846]LogDirectoryWatcher: A directory notification for 'C:/Users/nwuser.DA/Desktop/ピンボール/Pinball/Saved/Collections/' was aborted.
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.02-02.07.25:169][846]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.02-02.07.25:214][846]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.02-02.07.25:215][846]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.02-02.07.25:444][846]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.02-02.07.25:445][846]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.02-02.07.25:499][846]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.02-02.07.25:499][846]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.02-02.07.25:499][846]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.02-02.07.25:499][846]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.02-02.07.25:499][846]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.02-02.07.25:499][846]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.02-02.07.25:499][846]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.02-02.07.25:593][846]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.02-02.07.25:593][846]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.02-02.07.25:593][846]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.02-02.07.25:599][846]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.02-02.07.25:599][846]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.02-02.07.25:599][846]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.02-02.07.25:599][846]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.02-02.07.25:616][846]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.02-02.07.25:684][846]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.02-02.07.25:685][846]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.02-02.07.25:686][846]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.02-02.07.25:686][846]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.02-02.07.25:686][846]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.02-02.07.25:687][846]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.02-02.07.25:788][846]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.02-02.07.25:889][846]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.02-02.07.25:889][846]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.02-02.07.25:889][846]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.02-02.07.25:889][846]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.02-02.07.25:889][846]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.02-02.07.25:889][846]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.02-02.07.25:890][846]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.02-02.07.25:890][846]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.02-02.07.25:890][846]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.02-02.07.25:890][846]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.02-02.07.25:890][846]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.02-02.07.25:891][846]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.02-02.07.25:891][846]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.02-02.07.25:891][846]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.02-02.07.25:891][846]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.02-02.07.25:891][846]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.02-02.07.25:897][846]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.02-02.07.25:919][846]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.02-02.07.26:004][846]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.02-02.07.26:004][846]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.02-02.07.26:004][846]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.02-02.07.26:004][846]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.02-02.07.26:007][846]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.02-02.07.26:008][846]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.02-02.07.26:008][846]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.02-02.07.26:008][846]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.02-02.07.26:008][846]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.02-02.07.26:008][846]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.02-02.07.26:008][846]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.02-02.07.26:008][846]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.02-02.07.26:010][846]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.02-02.07.26:011][846]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.02-02.07.26:060][846]LogDerivedDataCache: Shutdown
+[2018.02.02-02.07.26:060][846]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.02-02.07.26:060][846]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.02-02.07.26:060][846]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.02-02.07.26:060][846]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.02-02.07.26:060][846]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.02-02.07.26:061][846]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.02-02.07.26:062][846]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.02-02.07.26:062][846]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.02-02.07.26:062][846]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6AA7B128-447E-EDA8-6B3B-B2B0627A7457%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=9193232f4656ac0c977faeaae6e6156d%7C1f50b8ba7e30429aaace275376676a0f%7C49e2b939-47bc-4687-94fe-e0c9b8fa9d17&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.02-02.07.26:069][846]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.02-02.07.26:070][846]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.02-02.07.26:071][846]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.02-02.07.26:071][846]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.02-02.07.26:071][846]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.02-02.07.26:071][846]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.02-02.07.26:071][846]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.02-02.07.26:071][846]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.02-02.07.26:074][846]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.02-02.07.26:078][846]LogExit: Exiting.
+[2018.02.02-02.07.26:093][846]Log file closed, 02/02/18 11:07:26
